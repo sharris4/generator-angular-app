@@ -1,0 +1,15 @@
+{
+  "name": "generator-angular-app",
+  "version": "1.0.0",
+  "description": "Angular app template",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^3.0.0",
+    "yosay": "^2.0.2"
+  }
+}
